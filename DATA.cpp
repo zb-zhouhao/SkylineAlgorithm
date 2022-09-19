@@ -90,13 +90,14 @@ bool cmp(Item& I1, Item& I2) {
 void DATA::SortD() {
     sort(D.begin(), D.end(), cmp);
     this->initREC();
+    //this->initKREC();
 }
 
 bool DATA::dominant(int pid, int qid) {
     return REC[pid * DATASIZE + qid];
 }
 
-
+//可以提前算出来，用的时候查
 void DATA::combine(int m, int n, int src, int N, vector<int>& rec, vector<int>& vis, int pid, int qid) {
     if (find) {
         return;
