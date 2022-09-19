@@ -2,6 +2,7 @@
 // Created by 周昊 on 2022/9/19.
 //
 
+#include <functional>
 #include "DATA.h"
 #include "utils.h"
 

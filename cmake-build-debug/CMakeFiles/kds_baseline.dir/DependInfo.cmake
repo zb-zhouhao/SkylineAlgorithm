@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.cpp" "/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/CMakeFiles/kds_baseline.dir/DATA.cpp.o"
-  "/Users/zhouhao1999/CLionProjects/kds_baseline/main.cpp" "/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/CMakeFiles/kds_baseline.dir/main.cpp.o"
+  "/home/zhouhao1999/ClionProject/SkylineAlgorithm/DATA.cpp" "/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/CMakeFiles/kds_baseline.dir/DATA.cpp.o"
+  "/home/zhouhao1999/ClionProject/SkylineAlgorithm/main.cpp" "/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/CMakeFiles/kds_baseline.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

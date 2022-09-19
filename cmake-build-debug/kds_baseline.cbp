@@ -8,91 +8,93 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug"/>
+				<Option working_dir="/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug"/>
+				<Option working_dir="/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="kds_baseline">
-				<Option output="/Users/zhouhao1999/CLionProjects/kds_baseline/kds_baseline" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/zhouhao1999/CLionProjects/kds_baseline"/>
+				<Option output="/home/zhouhao1999/ClionProject/SkylineAlgorithm/kds_baseline" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zhouhao1999/ClionProject/SkylineAlgorithm"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 kds_baseline"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 kds_baseline"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="kds_baseline/fast">
-				<Option output="/Users/zhouhao1999/CLionProjects/kds_baseline/kds_baseline" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/zhouhao1999/CLionProjects/kds_baseline"/>
+				<Option output="/home/zhouhao1999/ClionProject/SkylineAlgorithm/kds_baseline" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/zhouhao1999/ClionProject/SkylineAlgorithm"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 kds_baseline/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/zhouhao1999/CLionProjects/kds_baseline/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 kds_baseline/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/zhouhao1999/ClionProject/SkylineAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.cpp">
+		<Unit filename="/home/zhouhao1999/ClionProject/SkylineAlgorithm/DATA.cpp">
 			<Option target="kds_baseline"/>
 		</Unit>
-		<Unit filename="/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.h">
+		<Unit filename="/home/zhouhao1999/ClionProject/SkylineAlgorithm/DATA.h">
 			<Option target="kds_baseline"/>
 		</Unit>
-		<Unit filename="/Users/zhouhao1999/CLionProjects/kds_baseline/main.cpp">
+		<Unit filename="/home/zhouhao1999/ClionProject/SkylineAlgorithm/main.cpp">
 			<Option target="kds_baseline"/>
 		</Unit>
-		<Unit filename="/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h">
+		<Unit filename="/home/zhouhao1999/ClionProject/SkylineAlgorithm/utils.h">
 			<Option target="kds_baseline"/>
 		</Unit>
-		<Unit filename="/Users/zhouhao1999/CLionProjects/kds_baseline/CMakeLists.txt">
+		<Unit filename="/home/zhouhao1999/ClionProject/SkylineAlgorithm/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

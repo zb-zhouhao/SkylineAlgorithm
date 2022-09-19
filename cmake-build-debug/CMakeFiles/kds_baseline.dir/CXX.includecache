@@ -6,23 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.cpp
+/home/zhouhao1999/ClionProject/SkylineAlgorithm/DATA.cpp
+functional
+-
 DATA.h
-/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.h
+/home/zhouhao1999/ClionProject/SkylineAlgorithm/DATA.h
 utils.h
-/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h
+/home/zhouhao1999/ClionProject/SkylineAlgorithm/utils.h
 
-/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.h
+/home/zhouhao1999/ClionProject/SkylineAlgorithm/DATA.h
 utils.h
-/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h
+/home/zhouhao1999/ClionProject/SkylineAlgorithm/utils.h
 
-/Users/zhouhao1999/CLionProjects/kds_baseline/main.cpp
-utils.h
-/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h
-DATA.h
-/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.h
-
-/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h
+/home/zhouhao1999/ClionProject/SkylineAlgorithm/utils.h
 iostream
 -
 utility
@@ -40,5 +36,7 @@ fstream
 string
 -
 algorithm
+-
+cassert
 -
 
