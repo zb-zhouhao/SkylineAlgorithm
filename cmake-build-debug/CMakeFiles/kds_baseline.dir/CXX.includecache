@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.cpp
+DATA.h
+/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.h
+utils.h
+/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h
+
+/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.h
+utils.h
+/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h
+
+/Users/zhouhao1999/CLionProjects/kds_baseline/main.cpp
+utils.h
+/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h
+DATA.h
+/Users/zhouhao1999/CLionProjects/kds_baseline/DATA.h
+
+/Users/zhouhao1999/CLionProjects/kds_baseline/utils.h
+iostream
+-
+utility
+-
+vector
+-
+math.h
+-
+unordered_map
+-
+unordered_set
+-
+fstream
+-
+string
+-
+algorithm
+-
+
